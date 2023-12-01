@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "706465394334",
+    "project_id": "vitality-378517",
+    "storage_bucket": "vitality-378517.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706465394334:android:27ae4d9c14bf790dca158f",
+        "android_client_info": {
+          "package_name": "com.vitality.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706465394334-99ukajb8nc2puj6i35ihcb6uq80ir1dl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vitality.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "706465394334-j77de0hkg5abb9tl9kmptnnd7tev5dlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1l4GMXN_rkryHPScfNe4X7wLr17s2qlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706465394334-j77de0hkg5abb9tl9kmptnnd7tev5dlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
